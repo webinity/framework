@@ -1,0 +1,27 @@
+{
+    "name": "webinity/framework",
+    "description": "The webinity framework",
+    "autoload": {
+        "psr-4": {
+            "Webinity\\Framework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vrerabek",
+            "email": "vrerabek@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4 || ^8.0",
+        "ext-json": "*",
+        "slim/psr7": "^1.4",
+        "slim/slim": "4.*",
+        "php-di/php-di": "^6.3",
+        "vlucas/phpdotenv": "^5.3",
+        "slim/twig-view": "^3.0",
+        "dibi/dibi": "^4.2",
+        "symfony/translation": "^5.4",
+        "symfony/twig-bridge": "^5.4"
+    }
+}

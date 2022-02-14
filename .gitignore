@@ -1,0 +1,9 @@
+.env
+vendor/
+var/cache/
+var/logs/
+var/twig/
+git init
+node_modules
+public/assets/js
+public/assets/css
