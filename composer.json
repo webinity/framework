@@ -23,7 +23,7 @@
         "dibi/dibi": "^4.2",
         "symfony/translation": "5.4",
         "symfony/twig-bridge": "^5.4",
-        "symfony/mailer": "6.0",
+        "symfony/mailer": "5.4",
         "symfony/deprecation-contracts": "2.2.0",
         "symfony/event-dispatcher": "5.4",
         "symfony/event-dispatcher-contracts": "2.2",
